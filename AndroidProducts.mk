@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_KW_C8_LFLT.mk
+    $(LOCAL_DIR)/omni_KW_C7S_LFLT.mk

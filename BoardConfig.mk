@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/mediatek/KW_C8_LFLT
+LOCAL_PATH := device/mediatek/KW_C7S_LFLT
 
 # Architecture
 TARGET_ARCH := arm
